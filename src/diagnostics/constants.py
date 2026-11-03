@@ -1,0 +1,10 @@
+APP_NAME = "Diagnostics CLI"
+
+REPORT_TEXT = "text"
+REPORT_JSON = "json"
+
+EXIT_OK = 0
+EXIT_WARNING = 1
+EXIT_ERROR = 2
+EXIT_CONFIG = 3
+EXIT_INTERNAL = 4

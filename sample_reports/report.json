@@ -1,0 +1,52 @@
+{
+    "machine": {
+        "python_version": "3.14.4",
+        "python_executable": "C:\\Users\\ABHAY\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "os": "Windows",
+        "release": "11",
+        "architecture": "AMD64",
+        "processor": "Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",
+        "disk_total_gb": 475.54,
+        "disk_used_gb": 248.77,
+        "disk_free_gb": 226.76,
+        "cwd": "C:\\Users\\ABHAY\\Desktop\\rabtech\\diagnostic_cli",
+        "virtual_env": false
+    },
+    "environment": {
+        "PATH": "C:\\Program Files\\PowerShell\\7;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\php-8.5.1;C:\\Program Files\\Java\\jdk-25.0.2\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\PowerShell\\7\\;C:\\Program Files\\KeePassXC\\;C:\\Users\\ABHAY\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\;C:\\Users\\ABHAY\\AppData\\Local\\Programs\\Python\\Python314\\;C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\;C:\\Users\\ABHAY\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ABHAY\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\ABHAY\\AppData\\Local\\PowerToys\\DSCModules\\;C:\\Users\\ABHAY\\AppData\\Local\\PowerToys\\bin\\",
+        "HOME": null,
+        "USER": null,
+        "USERNAME": "Abhay Singh"
+    },
+    "tools": {
+        "git": true,
+        "python": true,
+        "pip": true,
+        "docker": false,
+        "node": false,
+        "npm": false,
+        "code": true
+    },
+    "events": {
+        "total_events": 5,
+        "errors": 2,
+        "warnings": 1,
+        "average_latency": 620.75,
+        "highest_latency": 1210,
+        "failed_requests": 2,
+        "services": {
+            "billing-api": {
+                "events": 3,
+                "errors": 1,
+                "warnings": 1,
+                "average_latency": 534.0
+            },
+            "profile-api": {
+                "events": 2,
+                "errors": 1,
+                "warnings": 0,
+                "average_latency": 707.5
+            }
+        }
+    }
+}
